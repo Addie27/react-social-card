@@ -1,0 +1,12 @@
+.thumbnail {
+    background-image: url("../../headshots-041.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 200px;
+    height: 200px; 
+    position: absolute;
+    top: 0;
+    left: 0; 
+
+  }
